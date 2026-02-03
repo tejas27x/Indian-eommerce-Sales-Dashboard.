@@ -3,7 +3,7 @@
 ## Project Overview
 This Power BI dashboard analyzes eCommerce order data for the India region. It provides insights into sales performance, customer preferences, and city-wise trends to help stakeholders make data-driven decisions.
 
-![Dashboard Preview](dashboard-screenshot.png) 
+![Dashboard Preview](dashboard-screenshot.png.png) 
 *(Note: Ensure the filename inside the parenthesis matches your uploaded image exact name)*
 
 ## 📊 Key Performance Indicators (KPIs)
