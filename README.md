@@ -24,5 +24,5 @@ Based on the data analysis, the following trends were identified:
 - **Data Source:** [Kaggle - Online Sales Data](https://www.kaggle.com/datasets/samruddhi4040/online-sales-data?select=Details.csv)
 
 ## 📂 How to View
-1. Download the `.pbix` file from this repository.
+1. Download the `Dashboard project.pbix` file from this repository.
 2. Open it in **Power BI Desktop**.
